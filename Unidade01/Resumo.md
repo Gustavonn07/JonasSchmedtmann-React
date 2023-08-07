@@ -1,0 +1,1 @@
+Foi explicado como funcionará o Curso e foi feito uma aplicação em react bem básica apenas para mostrar o react (Feito de maneira online).

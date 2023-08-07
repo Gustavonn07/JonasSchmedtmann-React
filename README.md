@@ -13,23 +13,23 @@ Nesse repositório irei guardar meus estudos do curso de CSS avançado e Sass (d
 <hr>
 
 ## Objetivo:
-- Finalizar o curso no periodo de 9 meses. 
+- Finalizar o curso no periodo de 9 meses (07/08/2023). 
 - Conseguir entender como usar <strong>React</strong>. 
 - Completar todas as aulas e exercícios. 
 - <strong>Não</strong> desistir no processo. 
-- Unidades concluidas <strong>(0/31)</strong>. 
+- Unidades concluidas <strong>(1/31)</strong>. 
 
 <hr>
 <table align='center'>
   <tr align='center'>
-    <th colspan="2"><h2>Unidade 01</h2>
+    <th colspan="2"><h2>Unidade 01 (07/8/2023)</h2>
      <tr>
        <td><h3 align='center'>Resumo:</h3>
-       <td>
+       <td> Foi explicado como funcionaria o curso e foi feito uma pequena aplicação em react de maneira online.
      </tr>
      <tr>
        <td><h3 align='center'>Tecnologias Estudadas:</h3>
-       <td align='center'>
+       <td align='center'> <img alt="Gustavo-REACT" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      </tr>
   </tr>
   
