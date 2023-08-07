@@ -1,0 +1,1 @@
+Foi mostrado como seria a primeira parte do curso.
