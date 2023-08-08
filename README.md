@@ -29,7 +29,7 @@ Nesse repositório irei guardar meus estudos do curso de React (da <span style="
      </tr>
      <tr>
        <td><h3 align='center'>Tecnologias Estudadas:</h3>
-       <td align='center'> <img alt="Gustavo-REACT" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+       <td align='center'> <img alt="Gustavo-REACT" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      </tr>
   </tr>
   
