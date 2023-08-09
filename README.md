@@ -1,5 +1,5 @@
 # Jonas Schmedtmann curso <span style="color: cyan">Udemy</span>
-Nesse repositório irei guardar meus estudos do curso de CSS avançado e Sass (da <span style="color: cyan">udemy</span>) do professor Jonas Schmedtmann.
+Nesse repositório irei guardar meus estudos do curso de React (da <span style="color: cyan">udemy</span>) do professor Jonas Schmedtmann.
 
 ### Link: <a href="https://www.udemy.com/course/the-ultimate-react-course/" target="_blank" style="text-decoration: none; color: cyan;">Ir para udemy.</a>
 ### Certificado: 
@@ -29,7 +29,7 @@ Nesse repositório irei guardar meus estudos do curso de CSS avançado e Sass (d
      </tr>
      <tr>
        <td><h3 align='center'>Tecnologias Estudadas:</h3>
-       <td align='center'> <img alt="Gustavo-REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+       <td align='center'> <img alt="Gustavo-REACT" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      </tr>
   </tr>
   
