@@ -46,13 +46,14 @@ Nesse repositório irei guardar meus estudos do curso de React (da <span style="
   </tr>
 
   <tr align='center'>
-    <th colspan="2"><h2>Unidade 03</h2>
+    <th colspan="2"><h2>Unidade 03 (24/08/2023)</h2>
      <tr>
        <td><h3 align='center'>Resumo:</h3>
+       <td> Foi introduzido o react no VScode e explicado a suas vantagens sobre o Javascript vanilla.
      </tr>
      <tr>
        <td><h3 align='center'>Tecnologias Estudadas:</h3>
-     </tr>
+     </tr> <img alt="Gustavo-REACT" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </tr>
 
 <!-- 
