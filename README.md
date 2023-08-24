@@ -17,7 +17,7 @@ Nesse repositório irei guardar meus estudos do curso de React (da <span style="
 - Conseguir entender como usar <strong>React</strong>. 
 - Completar todas as aulas e exercícios. 
 - <strong>Não</strong> desistir no processo. 
-- Unidades concluidas <strong>(2/31)</strong>. 
+- Unidades concluidas <strong>(3/31)</strong>. 
 
 <hr>
 <table align='center'>
