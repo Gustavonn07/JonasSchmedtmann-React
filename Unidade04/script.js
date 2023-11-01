@@ -144,10 +144,21 @@ const data = [
   }
 
 
-// Aula 05 Desconstruindo objetos e arrays:
+// Aula 05 - Desconstruindo objetos e arrays:
 
-const book = getBook(2);
+const book = getBook(1);
 const {title, author, id, genres} = book;
 
-const [genre1, genre2] = genres;
-genre1;
+// const [genre1, genre2] = genres;
+// genre1;
+
+
+// Aula 06 - Rest/Spread Operator:
+
+const [genre1, genre2, ...otherGenres] = genres;
+
+const updatedBook = {
+    ...book,
+    moviePublicationDate: "2001-12-19",
+    pages:1210
+}
