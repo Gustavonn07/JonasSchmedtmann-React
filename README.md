@@ -69,6 +69,19 @@ Nesse repositório irei guardar meus estudos do curso de React (da <span style="
      </tr>
   </tr>
 
+
+  <tr align='center'>
+    <th colspan="2"><h2>Unidade 05 (22/11/2023)</h2>
+     <tr>
+       <td><h3 align='center'>Resumo:</h3>
+       <td> Foi feito o primeiro projeto utilizando react, com conhecimentos basicos de componentes e props.
+     </tr>
+     <tr>
+       <td><h3 align='center'>Tecnologias Estudadas:</h3>
+       <td> <img alt="Gustavo-JSX" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     </tr> 
+  </tr>
+
 <!-- 
   <tr align='center'>
     <th colspan="2"><h2>Unidade</h2>
