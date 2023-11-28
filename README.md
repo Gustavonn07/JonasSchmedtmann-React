@@ -17,7 +17,7 @@ Nesse repositório irei guardar meus estudos do curso de React (da <span style="
 - Conseguir entender como usar <strong>React</strong>. 
 - Completar todas as aulas e exercícios. 
 - <strong>Não</strong> desistir no processo. 
-- Unidades concluidas <strong>(6/31)</strong>. 
+- Unidades concluidas <strong>(7/31)</strong>. 
 
 <hr>
 <table align='center'>
@@ -95,6 +95,18 @@ Nesse repositório irei guardar meus estudos do curso de React (da <span style="
      </tr>
   </tr>
 
+ <tr align='center'>
+    <th colspan="2"><h2>Unidade 07 (28/11/2023)</h2>
+     <tr>
+       <td><h3 align='center'>Resumo:</h3>
+       <td> Foi aprofundado o uso de states no react.
+     </tr>
+     <tr>
+       <td><h3 align='center'>Tecnologias Estudadas:</h3>
+       <td> <img alt="Gustavo-JSX" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     </tr>
+  </tr>
+  
 <!-- 
   <tr align='center'>
     <th colspan="2"><h2>Unidade</h2>
